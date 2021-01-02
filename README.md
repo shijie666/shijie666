@@ -1,10 +1,12 @@
 ### Nice to meet you 👋
 I'm a Java developer,
 Welcome to my blog, I hope to share my growth and happiness with you.  
-### my repo
+### About my repo 💬 
 - [Flag list in 2021](https://github.com/shijie666/2021)
-
+- [10037: Tech blog](https://github.com/shijie666/10037)  
+...
 <!--
+- [Open source contribution](xxx)
 **shijie666/shijie666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
