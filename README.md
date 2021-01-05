@@ -4,6 +4,7 @@ Welcome to my blog, I hope to share my growth and happiness with you.
 ### About my repo 💬 
 - [Flag list in 2021](https://github.com/shijie666/2021)
 - [10037: Tech blog](https://github.com/shijie666/10037)  
+- [spring-boot-demo](https://github.com/shijie666/spring-boot-demo)
 ...
 <!--
 - [Open source contribution](xxx)
